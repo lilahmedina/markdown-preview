@@ -45,12 +45,14 @@ Coded by **Delilah Medina**, 2024 for [freeCodeCamp](https://www.freecodecamp.or
 
 
 function App() {
+
+  //editor
   const [markdownText, setMarkdownText] = useState<string>(defaultMarkdown);
 
   return <>
   <div>
     <h1 style={{textAlign: "center"}}
-    >Markdown Preview</h1>
+    >Reflect Markdown</h1>
     <div className="boxes-container">
       <textarea name="editor" id="editor" value={markdownText} onChange={(e) => setMarkdownText(e.target.value)}></textarea>
       <div id="preview">
