@@ -1,4 +1,8 @@
-https://reflectmarkdown.netlify.app/
+Deployed with Netlify: https://reflectmarkdown.netlify.app/
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9e4219a4-e632-4265-a63a-e2530d499457/deploy-status)](https://app.netlify.com/sites/lilah-randomquotes/deploys)
+
 
 # React + TypeScript + Vite
 
